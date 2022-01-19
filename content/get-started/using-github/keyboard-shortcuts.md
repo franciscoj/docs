@@ -195,6 +195,10 @@ For more keyboard shortcuts, see the [CodeMirror documentation](https://codemirr
 {% ifversion fpt or ghes or ghae or ghec %}
 | Keyboard shortcut | Description
 |-----------|------------
+| <kbd>j</kbd> or <kbd>ctrl + n</kbd> | Move selection down
+| <kbd>k</kbd> or <kbd>ctrl + p</kbd> | Move selection up
+| <kbd>x</kbd> | Toggle selection
+| <kbd>o</kbd> or <kbd>enter</kbd> | Open notification
 |<kbd>e</kbd> | Mark as done
 | <kbd>shift + u</kbd>| Mark as unread
 | <kbd>shift + i</kbd>| Mark as read
